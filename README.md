@@ -12,7 +12,6 @@ The project is structured as follows:
 
 - `Landmarks/`: Contains the SwiftUI views, models, and other supporting files for the app.
 - `Landmarks.xcodeproj/`: Contains the Xcode project settings and configurations.
-- `README.md`: This file, providing an overview of the project.
 
 ## Running the Project
 

@@ -25,8 +25,6 @@ struct LandmarkDetail: View {
                         .font(.title)
                     FavoriteButton(isSet: $modelData.landmarks[landmarkIndex].isFavorite)
                 }
-                Text(landmark.name)
-                    .font(/*@START_MENU_TOKEN@*/.title/*@END_MENU_TOKEN@*/)
                 
                 HStack {
                     Text(landmark.park)
